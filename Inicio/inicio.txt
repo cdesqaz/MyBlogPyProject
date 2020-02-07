@@ -1,0 +1,13 @@
+Hola! este es el archivo que contiene mis pasos para empezar a crear un sitio web desde Linux Ubuntu 18.04
+
+Luego que has instalado tu sistema operativo Ubuntu 18.04
+
+Instalar los programas para mejorar las descargas antes del primer update
+
+Instalar Aria2 y Apt-Fast
+
+sudo apt-get install aria2 aptitude
+
+agregar el repositorio de apt-fast
+
+
